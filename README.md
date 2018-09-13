@@ -1,0 +1,2 @@
+# stashdates
+Dates generator
